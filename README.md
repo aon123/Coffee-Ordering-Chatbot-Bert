@@ -63,25 +63,12 @@ Flutter is an open source framework by Google for building beautiful, natively c
 
 Dataset contains of 4 classes and each class contains 1000 sentences.
 
-![alt text](https://getnamelambdabucket.s3.ap-northeast-2.amazonaws.com/labels.png)
+
 
 ##### Training accuracy - accuracy:  86.4 %
 ##### Test accuracy - accuracy:  83.75 %
 
-#### System architecture
 
-![alt text](https://getnamelambdabucket.s3.ap-northeast-2.amazonaws.com/americano.png)
-
-##### Admin Application
-\
-![alt text](https://getnamelambdabucket.s3.ap-northeast-2.amazonaws.com/app.png)
-
-#### Coffee API
-
-\
-![alt text](https://getnamelambdabucket.s3.ap-northeast-2.amazonaws.com/api.png)
-
----
 
 ### Problem & Solution
 
